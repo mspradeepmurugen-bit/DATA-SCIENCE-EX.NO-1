@@ -20,7 +20,11 @@ STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
 
-# Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
-# Result
-          <<include your Result here>>
+# CODING AND OUTPUT
+```
+![alt text](<Screenshot 2025-12-26 195551-1.png>)
+![alt text](<Screenshot 2025-12-26 195629.png>)
+![alt text](<Screenshot 2025-12-26 195639.png>)
+```
+# RESULT
+Thus, the given Data Set is Cleaned,and the Outliers removed by Z score method under jupyter notebook.
